@@ -1,5 +1,5 @@
 # DSLIST Backend
-Backend desenvolvido durante o intensivão java spring da DevSuperior
+Backend desenvolvido durante o intensivão java spring da DevSuperior <br>
 Foi implementado na nuvem com esteira de CI/CD com o Railway
 <br><br>
 ## 💻 Tecnologias Utilizadas nesse Projeto
