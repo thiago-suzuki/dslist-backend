@@ -17,10 +17,11 @@ Foi implementado na nuvem com esteira de CI/CD com o Railway
 ## Rotas Desenvolvidas
 Para testagem foi utilizado a plataforma Postman
 <br>
-- /games > Pega todos os games
-- /games/:id > Pega o game por id
-- /lists > Pega as listas de games
-- /lists/:listId/games > Pega os games por lista
+- GET /games > Pega todos os games
+- GET /games/:id > Pega o game por id
+- GET /lists > Pega as listas de games
+- GET /lists/:listId/games > Pega os games por lista
+- POST /lists/:listId/replacement > Muda a posição de um game passando na rota o id da lista, no body a posição inicial em que seu game está e a posição de destino que você quer colocar. Exemplo: { "sourceIndex": 1, "destinationIndex": 3 }  
 <br><br>
 
 ## Link do backend implementado na nuvem
