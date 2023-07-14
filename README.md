@@ -24,5 +24,13 @@ Para testagem foi utilizado a plataforma Postman
 - POST /lists/:listId/replacement > Muda a posição de um game passando na rota o id da lista, no body a posição inicial em que seu game está e a posição de destino que você quer colocar. Exemplo: { "sourceIndex": 1, "destinationIndex": 3 }  
 <br><br>
 
+## Link do Postman para acessar as rotas
+https://www.postman.com/planetary-firefly-627422/workspace/dev-superior/collection/17431542-2acfab5b-cdd8-4d88-abfa-80f61f011b45?action=share&creator=17431542
+
+<br><br>
+
 ## Link do backend implementado na nuvem
 https://dslist-backend-production-d8af.up.railway.app/
+
+
+
